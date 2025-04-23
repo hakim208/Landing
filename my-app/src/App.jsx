@@ -156,7 +156,7 @@ const App = () => {
             <p className='mt-[50px] text-center text-[40px] pr-[10px] mb-[20px] '>Looking for anything else?</p>
             <div className=' w-[300px] md:w-[700px] flex m-auto items-center gap-[20px] rounded-[40px] border-2 '>
                 <SearchRoundedIcon />
-                <input type="text" className='p-[5px] pr-[100px] rounded-[40px] text-gray-600 ' placeholder='Search keyword' />
+                <input type="text" className='p-[5px] pr-[100px] rounded-[40px] text-gray-600 outline-none ' placeholder='Search keyword' />
             </div>
             <div className='w-[90%] m-auto md:w-[45%] mt-[30px] flex flex-wrap gap-[10px]'>
                 <button className='rounded-[40px] border-2 p-[10px] pl-[30px] pr-[30px] '>iPhone</button>
