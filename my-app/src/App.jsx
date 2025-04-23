@@ -178,7 +178,7 @@ const App = () => {
                     <button className='text-white bg-[#000000] p-[10px] rounded-br-[20px] rounded-r-2xl '>Sign up</button>
                 </div>
             </div>
-            <div className='flex flex-wrap gap-[20px] md:flex-row text-gray-600 bg-[#F8F9FA] p-[20px] pl-[40px] pr-[40px] justify-around '>
+            <div className='flex flex-wrap gap-[20px] md:flex-row text-gray-600 bg-[#F8F9FA] p-[20px] pl-[40px] pr-[40px] justify-around mt-[70px] '>
                 <div className='flex flex-col gap-[20px] items-start '>
                     <img src={ImgNavbar} alt="" />
                     <p>Sign up for texts to be notified about <br /> our best offers on the perfect gifts.</p>
