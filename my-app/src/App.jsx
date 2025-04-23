@@ -55,7 +55,7 @@ const App = () => {
                     <BedtimeRoundedIcon onClick={handleClick} />
                 </div>
             </div>
-            <div className='flex-row text-black md:flex pt-[30px] p-[30px] bg-[#DCE5E2] w-[90%] m-auto rounded-[40px] mt-[50px] items-center justify-around'>
+            <div className='flex-row dark:bg-[#222] md:flex pt-[30px] p-[30px] bg-[#DCE5E2] w-[90%] m-auto rounded-[40px] mt-[50px] items-center justify-around'>
                 <div className='flex flex-col items-start gap-[30px] '>
                     <p className=' text-[20px] md:text-[40px]  '>The new phones are <br /> here take a look.</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque in est <br /> dui, aliquam, tempor. Faucibus morbi turpis.</p>
